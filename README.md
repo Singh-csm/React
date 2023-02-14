@@ -6,3 +6,5 @@ day1[https://docs.google.com/document/d/1f6WhMJY_Skzii5WXU2Yhs7jlo2wTgUkcEUqDUMT
 day2[https://docs.google.com/document/d/1dyUbo0oO4QPOy_ObgkeDfQVCWOaGkDLbICYoouFspTQ/edit]
 
 day3[https://docs.google.com/document/d/1jfR0soJN7wOjsY72aNk0NikZBLlgDsonLtD-Nr3VjdA/edit]
+
+day4[https://docs.google.com/document/d/1Q1s24SoPnJnUX1qzhA33X85wbXasYkH3yKJtuWXTyWo/edit]
