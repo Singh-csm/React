@@ -16,3 +16,5 @@ day5[https://docs.google.com/document/d/1tSR2e80ABpHxcwlWh4KuRVRudmhfzqGE_Tptmbt
 day1[Notes+ code for first class: https://bit.ly/3RYoWru]
 
 day2[Notes for day2: https://bit.ly/3xlgKb7]
+
+day3[Notes for day3: https://bit.ly/3RYOGnw ]
