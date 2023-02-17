@@ -18,3 +18,6 @@ day1[Notes+ code for first class: https://bit.ly/3RYoWru]
 day2[Notes for day2: https://bit.ly/3xlgKb7]
 
 day3[Notes for day3: https://bit.ly/3RYOGnw ]
+
+# React Notes: [[React Notes.pdf](https://github.com/Singh-csm/React/files/10763826/React.Notes.pdf)
+]
