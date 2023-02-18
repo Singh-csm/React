@@ -21,3 +21,5 @@ day3[Notes for day3: https://bit.ly/3RYOGnw ]
 
 # React Notes: [React Notes.pdf](https://github.com/Singh-csm/React/files/10763826/React.Notes.pdf)
 
+#overall mock:- [https://docs.google.com/spreadsheets/d/1boxSIsGEPJvpo2NJxU-0FpdfwroYANS9Bb2zD1IY7-o/edit#gid=0]
+
